@@ -7,7 +7,7 @@ const client = new Client({
   ],
 });
 
-const ROLE_ID = "1530910734886764705";
+const ROLE_ID = "1530867827622281266";
 
 client.once("ready", () => {
   console.log(`تم تشغيل ${client.user.tag}`);
